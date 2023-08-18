@@ -1,3 +1,3 @@
 # Tere-Application
-https://smit-salman.netlify.app/html/tere_application
+https://salmanaly.netlify.app/html/tere_application
  
